@@ -1,0 +1,246 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+nav{
+    width: 100%;
+    height: 60px;
+    background: #333;
+    position: sticky;
+    top: 0px;
+}
+.nav_collection{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+    color: #ddd;
+    width: 65%;
+    margin: auto;
+}
+.nav_item{
+    font-size: 12px;
+    cursor: pointer;
+}
+.nav_item i{
+    font-size: 16px;
+}
+.banner{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.ipad{
+    background:url(./hero_ipad__rh99l6c3yuyy_large_2x.jpg) no-repeat center/cover;
+ 
+}
+.ipadpro{
+    background:url(./hero_ipadpro_order__fpc2supjug66_large_2x.jpg) no-repeat center/cover;
+}
+.banner_item{
+    width: 380px;
+   
+    margin-left: 25%;
+    text-align: center;
+}
+.banner_item h1{
+    font-size: 50px;
+}
+.banner_item h3{
+    font-size: 28px;
+    font-weight: 100;
+    padding: 8px 0;
+}
+.banner_item p{
+    font-size: 18px;
+    color: #777;
+}
+.links{
+    margin-top: 10px;
+}
+.link{
+    text-decoration: none;
+    margin: 0 14px;
+    color: dodgerblue;
+    font-size: 18px;
+}
+.ipadpro_item{
+    color: #fff;
+    margin-left: 0;
+    margin-right: 45%;
+}
+.wrapper{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    width: 50%;
+    height: 500px;
+    border: 5px solid #fff;
+    background: violet;
+}
+.tv{
+    background: url(./hero_tv4k__cgpb13m0phyq_large.jpg) no-repeat center/cover;
+    
+}
+.kk{
+    width: 250px;
+    height: 90px;
+    background: url(./hero_tv4k_logo__ght1s13b3e2q_large.png) no-repeat center;
+    margin-top:280px;
+    margin-left: 180px; 
+}
+.kkh1{
+    font-size: 25px;
+}
+.kkh3{
+    text-align: center;
+    margin-top: 10px;
+    color:#888;
+}
+.tele a{
+    margin-left: 80px;
+    margin-top: 20px;
+   
+}
+.linl{
+    text-decoration: none;
+    color: dodgerblue;
+    font-size: 18px;
+    padding-left: 80px;
+}
+.rasm1{
+   width: 100%;
+   height: 100%;
+    background: url(./promo_iphone14pro__4n4twj56fzmu_large.jpg) no-repeat center/cover;
+}
+.rasml{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 20px;
+    color: #fff;
+}
+.linm{
+    text-decoration: none;
+    color: dodgerblue;
+    font-size: 18px;
+    padding-left: 220px;
+}
+.rasm2{
+    width: 100%;
+    height: 100%;
+     background: url(./promo_iphone14__b9mz75yhy02u_large.jpg) no-repeat center/cover;
+}
+.rasmm{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 20px;
+}
+.silka{
+   text-decoration: none;
+   color: dodgerblue; 
+}
+.rasm3{
+    width: 100%;
+    height: 100%;
+     background: url(./promo_apple_watch_ultra__gnsqulvdc4a6_large.jpg) no-repeat center/cover;
+}
+.iconka{
+    width: 200px;
+    height: 60px;
+    background: url(./hozir.png) no-repeat center;
+    margin-left: 230px;
+    
+
+}
+.rasmb{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 25px;
+}
+.rasm4{
+    width: 100%;
+    height: 100%;
+     background: url(./promo_apple_watch_series_8__ch7rexplmihe_large.jpg) no-repeat center/cover;
+}
+.iconga{
+    width: 200px;
+    height: 60px;
+    background: url(./hozi.png) no-repeat center;
+    margin-left: 230px;
+}
+.rasm4 h3{
+    color: #fff;
+}
+.rasm5{
+    width: 100%;
+    height: 100%;
+     background: url(./promo_airpods_pro_avail__gaxggskofx6y_large.jpg) no-repeat center/cover;
+}
+.rasm5 h1, h3{
+color: #fff;
+}
+.rasmv{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 25px;
+}
+.olma{
+    width: 200px;
+    height: 60px;
+    background: url(./logo.png) no-repeat center;
+    margin-left: 230px;
+}
+.rasmx{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 25px;
+}
+.rasm6{
+    width: 100%;
+    height: 100%;
+     background: url(./tile__cauwwcyyn9hy_large.jpg) no-repeat center/cover;
+}
+.rasmx h3{
+    color: black;
+}
+.anor{
+    width: 100%;
+    height: 520px;
+    
+}
+.anor h5{
+    margin-top: 10px;
+    margin-left: 100px;
+}
+.hr1{
+    margin-top: 20px;
+    width: 80%;
+    margin-left:100px;
+}
+.znm{
+    display: flex;
+    width: 80%;
+    height: 300px;
+   
+    margin-left:00px;
+    margin-top: 10px;
+}
+.znm div{
+    width: 20%;
+    height: 100%;
+   
+
+}
+.bmv{
+    margin-left: 100px;
+    margin-top: 15px;
+}
+
